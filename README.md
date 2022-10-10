@@ -6,6 +6,7 @@ Software that completed this project include:
 1. A pdf reader
 2. A word processor
 3. A spreadsheet processor
+4. An analysis tool
 ## Launch
 1. Download & extract a zip file for this project.
 2. Double click each file to look at contents.
