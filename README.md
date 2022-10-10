@@ -9,4 +9,4 @@ Software that completed this project include:
 ## Launch
 1. Download & extract a zip file for this project.
 2. Double click each file to look at contents.
-3. When these files don't open software mentioned at the top must get installed for this to work.
+3. When these files don't open software mentioned at the top must get installed.
