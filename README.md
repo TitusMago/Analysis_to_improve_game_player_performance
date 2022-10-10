@@ -1,4 +1,4 @@
-# Analysis-to-improve-game-play.
+# Analysis-to-improve-game-player performance.
 ## Information
 Assetto Corsa was played on a laptop many times with on win. A decision was made to analyze data from this game to improve a game player's performance. Some variables were switched on to one at a time to record race time. This data was analysed with help of a hypothesis tests. Statistical analysis provided a solution at the end races were won.
 ## Technology
