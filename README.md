@@ -11,4 +11,4 @@ Software that completed this project include:
 <ins>Launch</ins><br>
 1. Download & extract a zip file for this project.
 2. Double click each file to look at contents.
-3. When these files don't open software mentioned at the top must get installed.
+3. When these files can't open, software mentioned at the top must first get installed.
